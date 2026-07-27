@@ -21,4 +21,4 @@ Ensure you have the required libraries installed:
 `pip install numpy matplotlib customtkinter`
 
 Run the application:
-`python modern_dice_gui.py`
+`python dice_simulation.py`
