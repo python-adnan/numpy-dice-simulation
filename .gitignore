@@ -1,9 +1,0 @@
-# Ignore the virtual environment folder
-venv/
-
-# Ignore the .gitignore file itself (Optional, but not recommended)
-.gitignore
-
-# It's also good practice to ignore Python cache files
-__pycache__/
-*.pyc
